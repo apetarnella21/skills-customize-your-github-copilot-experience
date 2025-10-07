@@ -19,4 +19,4 @@ Este projeto é um site educacional para compartilhar tarefas de casa e exercíc
 Ao gerar conteúdo para este projeto:
 
 - **Focado em aprendizado**: Todo conteúdo deve ser projetado com objetivos de aprendizado claros e níveis de dificuldade apropriados
-- **Amigável para estudantes**: Use linguagem clara e encorajadora que motiva os estudantes
+- **Amigável para estudantes**: Use linguagem clara e encorajadora que motiva os estudante
